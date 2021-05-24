@@ -1,0 +1,8 @@
+Variáveis === nomeAluno; matriculo; edicaoNome; nota1(2...n); calculoDeMedia; matrizFinal
+
+ 
+
+1)   cadastraNome;   cadastraMatricula   ( retorno armazenado do escopo global,   em uma matriz )
+2)   editarNome ( substituir equivalente ao indice )
+3 )  pedirNota ( pedir as 3 notas, retornar no escopo global)  calculoMedia
+4)   organizarTabela
