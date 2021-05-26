@@ -36,3 +36,4 @@ Variáveis === nomeAluno; matriculo; edicaoNome; nota1(2...n); calculoDeMedia; m
 2)   editarNome ( substituir equivalente ao indice )
 3 )  pedirNota ( pedir as 3 notas, retornar no escopo global)  calculoMedia
 4)   organizarTabela
+
